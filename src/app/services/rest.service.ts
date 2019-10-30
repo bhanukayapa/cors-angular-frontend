@@ -6,7 +6,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class RestService {
 
-  private REST_API_SERVER = 'https://cors-backend-service.herokuapp.com/api/';
+  private REST_API_SERVER = 'http://client2.local.com:4200/api/';
 
   constructor(private httpClient: HttpClient) { }
 
