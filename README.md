@@ -8,4 +8,5 @@ The application is designed to host on client1.local.com. Therefore please add c
 
 ## How to run
 npm install
+
 npm start
